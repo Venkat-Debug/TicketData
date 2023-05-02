@@ -1,0 +1,10 @@
+{
+  "gold": {
+    "discountPercent": 10,
+    "minimumSeats": 4
+  },
+  "diamond": {
+    "discountPercent": 15,
+    "minimumSeats": 6
+  }
+}
